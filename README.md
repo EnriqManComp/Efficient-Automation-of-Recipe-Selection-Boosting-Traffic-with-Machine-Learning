@@ -27,7 +27,7 @@ Automate the recipe selection process to boost website traffic.
 
 # Report Summary 📑
 
-This overview is intended to offer a comprehensive perspective on the strategy employed to address the problem. The approach is organized into steps in accordance with the grading rubric and clarity requirements. For a more detailed and confirmed understanding, please refer to the accompanying code sections below.
+This overview is intended to offer a comprehensive perspective on the strategy employed to address the problem. The approach is organized into steps in accordance with the grading rubric and clarity requirements. For a more detailed and confirmed understanding, please refer to the ![accompanying code sections](efficient-automation-of-recipe-selection.ipynb).
 
 1. **Data Validation ✅** 
 In this section, an initial data cleaning process is performed. The operations conducted on the data are described as follows:
